@@ -1,0 +1,5 @@
+.content-holder{
+    display: flex;
+    z-index:3;
+    padding-top: 80px;
+}

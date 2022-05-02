@@ -1,0 +1,7 @@
+.booking_slot:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.booking_slot{
+    cursor: pointer;
+}

@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+
+.logo-holder{
+    width: fit-content;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    color: black;
+    cursor: default;
+}
+
+.redirect{
+    display: flex;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.87);
+    justify-content: end;
+}
+
+.redirect:hover{
+    color: black;
+    text-decoration: underline;
+}

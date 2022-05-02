@@ -1,0 +1,9 @@
+@media only screen and (max-width: 875px){
+    .display{
+        display: none;
+    }
+}
+.display{
+    border-right: 1px solid black;
+    padding: 10px 5px 0px 15px;
+}

@@ -1,0 +1,32 @@
+.form{
+    width:100%;
+}
+.image-upload{
+    width:60%
+}
+.image-upload-holder{
+    align-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.image{
+    width: 33%;
+}
+.upload-button{
+    align-items: center;
+    width: 100%;
+}
+.upload-button-holder{
+    width: 60%;
+}
+.logout-holder{
+    float: right;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button { 
+	-webkit-appearance: none;
+}
+.error{
+    color: red;
+}
